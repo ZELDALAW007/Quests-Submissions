@@ -6,5 +6,6 @@ A. Blockchain is a transparent tamper proof database in which information is pub
 
 B. A smart contract is an agreement programmed into code. Smart contracts are:Automated,Irreversible,Transparent and Tamper-proof.Smart contracts remove human intervention from agreements.
 
-C. Script is essentially a list of instructions recorded with each transaction that is on the blockchain.
-   Transaction is a paid function in which data changes in the blockchain
+C. 
+ i.  Script is essentially a list of instructions recorded with each transaction that is on the blockchain.
+ii. Transaction is a paid function in which data changes in the blockchain
