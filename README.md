@@ -10,3 +10,5 @@ C. Script is essentially a list of instructions recorded with each transaction t
 
 
 ## Chapter 1 - Day 2
+
+1. #### The 5 Cadence Programming Language Pillars
