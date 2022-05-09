@@ -14,7 +14,11 @@ C. Script is essentially a list of instructions recorded with each transaction t
 1. #### The 5 Cadence Programming Language Pillars
 
 a. Safety and Security 
+
 b. Clarity
+
 c. Approachability
+
 d. Developer Experience
+
 e. Resource Oriented Programming
