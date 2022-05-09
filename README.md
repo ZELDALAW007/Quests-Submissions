@@ -11,7 +11,7 @@ C. Script is essentially a list of instructions recorded with each transaction t
 
 ## Chapter 1 - Day 2
 
-1. #### The 5 Cadence Programming Language Pillars
+1. ####The 5 Cadence Programming Language Pillars
 
 a. Safety and Security:  Cadence enhances productivity while maintaining the highest levels of safety and security.  Safety and security are critical in smart contracts because of the rigid nature of blockchains, and because they often deal with high-value assets. 
 
