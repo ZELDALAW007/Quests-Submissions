@@ -22,3 +22,6 @@ c. Approachability
 d. Developer Experience
 
 e. Resource Oriented Programming
+
+2. #### Why Could The 5 Pillars Be Useful?
+
