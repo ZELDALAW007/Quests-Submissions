@@ -9,4 +9,4 @@ B. A Smart contract is an agreement programmed into code. Smart contracts are:Au
 C. Script is essentially a list of instructions recorded with each transaction that is on the blockchain while Transaction is a paid function in which data changes in the blockchain.
 
 
-### Chapter 1 - Day 2
+## Chapter 1 - Day 2
