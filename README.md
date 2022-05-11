@@ -25,3 +25,4 @@ e. Resource Oriented Programming
 
 2. #### Why Could The 5 Pillars Be Useful?
 
+ Smart contracts are susceptible to failure and many projects fall victim to this, costing users money and the project discrediting.Candence provides solutions to security and can be adpted so easily by developers with former experience because of it's simplicity. 
